@@ -19,6 +19,7 @@
   "homepage": "https://github.com/wrauf/HomeKit-Pi-Camera#readme",
   "dependencies": {
     "hap-nodejs": "^0.4.15",
-    "shelljs": "^0.7.5"
+    "shelljs": "^0.7.5",
+    "tree-kill": "^1.2.2"
   }
 }
